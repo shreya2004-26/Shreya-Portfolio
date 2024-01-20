@@ -225,6 +225,8 @@ body {
   padding: 20px 15px;
   gap: 15px;
   border-radius: 8px;
+  box-shadow: 4px 4px 18px rgba(41, 29, 29, 0.87),
+    -4px -4px 18px rgba(62, 48, 48, 0.87);
 }
 
 .Y img {
@@ -262,6 +264,8 @@ body {
   gap: 20px;
   padding: 15px;
   border-radius: 8px;
+  box-shadow: 4px 4px 18px rgba(41, 29, 29, 0.87),
+    -4px -4px 18px rgba(62, 48, 48, 0.87);
 }
 .myPortfolio button {
   width: fit-content;
@@ -300,6 +304,8 @@ body {
   gap: 20px;
   background-color: #121010;
   padding: 20px;
+  box-shadow: 4px 4px 18px rgba(41, 29, 29, 0.87),
+    -4px -4px 18px rgba(62, 48, 48, 0.87);
 }
 .C22 {
   display: flex;
@@ -309,6 +315,8 @@ body {
   background-color: #121010;
   padding: 30px;
   height: fit-content;
+  box-shadow: 4px 4px 18px rgba(41, 29, 29, 0.87),
+    -4px -4px 18px rgba(62, 48, 48, 0.87);
 }
 .C22 button {
   width: fit-content;
@@ -353,6 +361,8 @@ form {
   margin-top: 85px;
   background-color: #121010;
   height: 50%;
+  box-shadow: 4px 4px 18px rgba(67, 62, 62, 0.87),
+    -4px -4px 18px rgba(73, 60, 60, 0.87);
 }
 .F1 img {
   width: 100px;
